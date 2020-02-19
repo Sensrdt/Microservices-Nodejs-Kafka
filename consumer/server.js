@@ -1,4 +1,3 @@
-"use strict";
 
 const kafka = require('kafka-node');
 const util = require('util');
